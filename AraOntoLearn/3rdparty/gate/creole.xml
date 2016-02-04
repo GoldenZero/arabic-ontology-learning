@@ -1,0 +1,11 @@
+<CREOLE-DIRECTORY>
+	<CREOLE>
+		<RESOURCE>
+			<NAME>StopwordDetection</NAME>
+			<JAR>StopwordDetection.jar</JAR>
+			<CLASS>org.ontoware.text2onto.linguistic.StopwordDetection</CLASS>
+			<PARAMETER NAME="stopwordsURL" RUNTIME="false">java.net.URL</PARAMETER>
+			<PARAMETER NAME="testUpperCase" RUNTIME="false">java.lang.Boolean</PARAMETER>
+		</RESOURCE>
+	</CREOLE>
+</CREOLE-DIRECTORY>
